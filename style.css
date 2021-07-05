@@ -1,0 +1,39 @@
+* {
+    /* margin: 0;
+    padding: 0; */
+}
+body {
+    background-color: rgb(52, 137, 247);
+}
+nav {
+    background-color: rgb(64, 192, 252);
+    padding: 20px;
+}
+h1 {
+    font-size: 60px;
+}
+a {
+    border: none;
+    background-color: rgb(235, 68, 165);
+    text-decoration: none;
+    border-radius: 25px;
+    padding: 5px;
+    margin: 20px;
+}
+ul {
+    list-style-type: none;
+    list-style-image: linear-gradient(#ff72 0, #ffba11 50%);
+    list-style-position: outside;
+}
+ol {
+    list-style: none;
+    padding: 0px;
+  }
+li {
+    position: relative;
+    display: block;
+    padding: 3px 3px 3px 6px;
+    margin: 3px 0 3px 1px;
+    background-color: violet;
+    color: white;
+}
